@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Gowtham Gopalakrishnan  
+## Hi there, I'm Gowtham Gopalakrishnan!
 
 🔭 **Currently:**  
 - Graduate Data Science student at the University of Arizona  
@@ -15,7 +15,8 @@
   - Applied large language models (LLMs) and multimodal learning techniques to accelerate drug repurposing workflows.  
   - Built scalable pipelines for **pre-training and distributed inference** on biomedical datasets.  
   - Integrated **molecular graphs and 3D structural data** into LLM-driven models to capture complex biomolecular interactions.  
-  - Leveraged **post-training methods** (reinforcement learning, contrastive learning, instruction tuning) to refine predictions.  
+  - Leveraged **post-training methods** (reinforcement learning, contrastive learning, instruction tuning) to refine predictions.
+
 -> Designed and deployed a mitochondrial DNA location classifier that cut experimental turnaround time from weeks to hours — enabling researchers to validate hypotheses in real-time. 
 
 👯 **Looking to collaborate on:**  
