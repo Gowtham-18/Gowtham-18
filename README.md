@@ -1,9 +1,8 @@
 ## Hi there, I'm Gowtham Gopalakrishnan!
 
 🔭 **Currently:**  
-- Graduate Data Science student at the University of Arizona  
 - Researcher at the College of Cellular & Molecular Medicine, applying ML + LLMs to accelerate **Drug Discovery & Repursposing**  
-- Machine Learning Intern at OneData Software  
+- Machine Learning Engineer at OneData Software  
 
 🌱 **Focus Areas:**  
 - AI-driven biomedical research  
