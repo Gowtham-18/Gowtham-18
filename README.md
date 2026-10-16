@@ -1,42 +1,60 @@
-## Hi there, I'm Gowtham Gopalakrishnan!
+## Hi there, I'm Gowtham Gopalakrishnan 👋
 
-🔭 **Currently:**  
-- Researcher at the College of Cellular & Molecular Medicine, applying ML + LLMs to accelerate **Drug Discovery & Repursposing**  
-- Machine Learning Engineer at OneData Software  
+**Staff Software Engineer · AI Runtime Security @ Palo Alto Networks**
 
-🌱 **Focus Areas:**  
-- AI-driven biomedical research  
-- Large-scale data curation & reproducibility  
-- Building tools that move from *nice-to-have* → *essential* for researchers  
+I build the infrastructure that sits between applications and LLMs, checking prompts on the way in and responses on the way out, in real time.
 
-🏆 **Major Achievements:**  
-->Successfully repurposed an FDA drug that can substitute for a novel candidate in a critical protein–protein interaction — reducing risk, improving reproducibility, and enabling faster translational research.  
-  - Applied large language models (LLMs) and multimodal learning techniques to accelerate drug repurposing workflows.  
-  - Built scalable pipelines for **pre-training and distributed inference** on biomedical datasets.  
-  - Integrated **molecular graphs and 3D structural data** into LLM-driven models to capture complex biomolecular interactions.  
-  - Leveraged **post-training methods** (reinforcement learning, contrastive learning, instruction tuning) to refine predictions.
+🔭 **Currently**
+- Working on **AI Runtime Security** at Palo Alto Networks: ML serving, inference, CI/CD and observability for production AI security services
 
--> Designed and deployed a mitochondrial DNA location classifier that cut experimental turnaround time from weeks to hours — enabling researchers to validate hypotheses in real-time. 
+🌱 **Focus areas**
+- Cloud-native ML infrastructure & LLM inference (Kubernetes, GCP, Triton, vLLM)
+- AI security: making LLM apps safe without making them slow
+- Reliable production systems: testing pipelines, observability, on-call
 
-👯 **Looking to collaborate on:**  
-Mission-driven biotech/AI startups tackling real-world data challenges  
+🧪 **Previously**
+- **ML Engineer Intern @ OneData Software**: built a RAG ingestion and vector-indexing pipeline (OpenAI embeddings + pgvector) over private company docs
+- **Graduate Researcher, University of Arizona**: applied LLMs and multimodal deep learning (molecular graphs + 3D structures) to drug discovery and repurposing
+- **Software Engineer @ Antworks**: intelligent document processing and enterprise automation
 
-💬 **Ask me about:**  
-Machine learning engineering, LLMs, computational workflows, and turning technical prototypes into strategic impact  
+🏆 **Hackathons**
+- Karnataka State Police Hackathon 2023: **Winner**
+- DevBhoomi Cyber Hackathon 2022: **Winner**
+- AftroTech AI Hackathon 2024 (USA): **Runner-up**
+- Darkathon 2022, Narcotics Control Bureau: **Runner-up**
 
-📫 **Portfolio:** [gowthamg.info](https://gowthamg.info)  
+👯 **Open to collaborating on**
+AI security, ML infrastructure, LLM serving, and developer tooling
 
-😄 **Pronouns:** He/Him  
-⚡ **Fun fact:**  
-I get excited about the idea that large language models can learn not just text, but also *molecular graphs, 3D structures, and even time-series data* — meaning the same tech behind chatbots could one day help discover new medicines.
- 
+💬 **Ask me about**
+Model serving, Kubernetes, LLM guardrails, and turning prototypes into production systems
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gowthamgopalakrishnan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowthamgopalakrishnan126@gmail.com) 
+📫 **Portfolio:** [gowthamg.info](https://gowthamg.info)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=flat&logo=arangodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:** my job is basically being a bouncer for LLMs: every prompt gets checked at the door.
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowthamgopalakrishnan/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowthamgopalakrishnan126@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF7A3D?logo=googlechrome&logoColor=white)](https://gowthamg.info)
+
+## 💻 Tech Stack
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**ML serving & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Triton](https://img.shields.io/badge/Triton_Inference_Server-76B900?style=flat&logo=nvidia&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+
+**Cloud & infra**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+
+**CI/CD & observability**
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+
+**Backend & data**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Gowtham-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Gowtham-18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -44,10 +62,5 @@ I get excited about the idea that large language models can learn not just text,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gowtham-18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gowtham-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Gowtham-18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
